@@ -1,1 +1,1 @@
-print(not )
+print(not .__dict__ )
