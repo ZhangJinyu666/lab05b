@@ -1,1 +1,1 @@
-print(not .__dict__ )
+print()
